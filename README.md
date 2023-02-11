@@ -1,5 +1,3 @@
-# Name - Kirti Rani (Data Science)
-
 # Telecom-Churn-Case-Study
 
 ## Problem Statement
